@@ -1,0 +1,256 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R&#xE9;sultats Ligue 1</title>
+    <link>http://www.matchendirect.fr/france/ligue-1/</link>
+    <description>MatchEnDirect.fr : R&#xE9;sultats Football en Live - Suivez tous les Matchs en Direct !</description>
+    <atom:link href="http://www.matchendirect.fr/rss/foot-ligue-1-c16.xml" rel="self" type="application/rss+xml"/>
+    <image>
+      <url>http://www.matchendirect.fr/image/commun/matchendirect-rss96.png</url>
+      <title>R&#xE9;sultats Ligue 1</title>
+      <link>http://www.matchendirect.fr/france/ligue-1/</link>
+      <width>96</width>
+      <height>96</height>
+    </image>
+    <item>
+      <title>Ligue 1 : PSG - Caen (score final : 3-0)</title>
+      <link>http://www.matchendirect.fr/live-score/psg-caen.html</link>
+      <pubDate>Sun, 12 Aug 2018 22:45:00 +0200</pubDate>
+      <guid isPermaLink="false">a8b2e02cbd790243770d3e1e3fb0dcde</guid>
+    </item>
+    <item>
+      <title>Ligue 1 : PSG - Caen en direct</title>
+      <link>http://www.matchendirect.fr/live-score/psg-caen.html</link>
+      <pubDate>Sun, 12 Aug 2018 21:00:00 +0200</pubDate>
+      <guid isPermaLink="false">aed30819c13a9e5c4adf7d753cfbb3ac</guid>
+    </item>
+    <item>
+      <title>Ligue 1 : Bordeaux - Strasbourg (score final : 0-2)</title>
+      <link>http://www.matchendirect.fr/live-score/bordeaux-strasbourg.html</link>
+      <pubDate>Sun, 12 Aug 2018 18:45:00 +0200</pubDate>
+      <guid isPermaLink="false">9f1367cc947f57c4a98fd94a8c7b1518</guid>
+    </item>
+    <item>
+      <title>Ligue 1 : Bordeaux - Strasbourg en direct</title>
+      <link>http://www.matchendirect.fr/live-score/bordeaux-strasbourg.html</link>
+      <pubDate>Sun, 12 Aug 2018 17:00:00 +0200</pubDate>
+      <guid isPermaLink="false">2570833de261d82d0c55eda78933ad0b</guid>
+    </item>
+    <item>
+      <title>Ligue 1 : Lyon - Amiens SC (score final : 2-0)</title>
+      <link>http://www.matchendirect.fr/live-score/lyon-amiens-sc.html</link>
+      <pubDate>Sun, 12 Aug 2018 16:45:00 +0200</pubDate>
+      <guid isPermaLink="false">29efb93799ad74324165c4023ea62f06</guid>
+    </item>
+    <item>
+      <title>Ligue 1 : Lyon - Amiens SC en direct</title>
+      <link>http://www.matchendirect.fr/live-score/lyon-amiens-sc.html</link>
+      <pubDate>Sun, 12 Aug 2018 15:00:00 +0200</pubDate>
+      <guid isPermaLink="false">d0ad208720564f1fbd1a70c359cd040e</guid>
+    </item>
+    <item>
+      <title>Ligue 1 : Saint-&#xC9;tienne - Guingamp (score final : 2-1)</title>
+      <link>http://www.matchendirect.fr/live-score/saint-etienne-guingamp.html</link>
+      <pubDate>Sat, 11 Aug 2018 21:45:00 +0200</pubDate>
+      <guid isPermaLink="false">c35347fe505590d1edfbc08b9de55ace</guid>
+    </item>
+    <item>
+      <title>Ligue 1 : Nice - Reims (score final : 0-1)</title>
+      <link>http://www.matchendirect.fr/live-score/nice-reims.html</link>
+      <pubDate>Sat, 11 Aug 2018 21:45:00 +0200</pubDate>
+      <guid isPermaLink="false">8cc8f5b673c3833f9b53df8e29c15f1c</guid>
+    </item>
+    <item>
+      <title>Ligue 1 : Montpellier - Dijon (score final : 1-2)</title>
+      <link>http://www.matchendirect.fr/live-score/montpellier-dijon.html</link>
+      <pubDate>Sat, 11 Aug 2018 21:45:00 +0200</pubDate>
+      <guid isPermaLink="false">0fde0325923aa113d3e3784b339c86f3</guid>
+    </item>
+    <item>
+      <title>Ligue 1 : Lille - Rennes (score final : 3-1)</title>
+      <link>http://www.matchendirect.fr/live-score/lille-rennes.html</link>
+      <pubDate>Sat, 11 Aug 2018 21:45:00 +0200</pubDate>
+      <guid isPermaLink="false">fb6588cfa7f87fe62b3c3ea8231b019d</guid>
+    </item>
+    <item>
+      <title>Ligue 1 : Angers - N&#xEE;mes (score final : 3-4)</title>
+      <link>http://www.matchendirect.fr/live-score/nimes-angers.html</link>
+      <pubDate>Sat, 11 Aug 2018 21:45:00 +0200</pubDate>
+      <guid isPermaLink="false">f96a44b15c5d2ce6962e4de8593efaa4</guid>
+    </item>
+    <item>
+      <title>Ligue 1 : Saint-&#xC9;tienne - Guingamp en direct</title>
+      <link>http://www.matchendirect.fr/live-score/saint-etienne-guingamp.html</link>
+      <pubDate>Sat, 11 Aug 2018 20:00:00 +0200</pubDate>
+      <guid isPermaLink="false">adce2c82ea429cfcff5a3ba23701521b</guid>
+    </item>
+    <item>
+      <title>Ligue 1 : Nice - Reims en direct</title>
+      <link>http://www.matchendirect.fr/live-score/nice-reims.html</link>
+      <pubDate>Sat, 11 Aug 2018 20:00:00 +0200</pubDate>
+      <guid isPermaLink="false">2b6e6216e2eaa9c067e5f26dbf59f6c2</guid>
+    </item>
+    <item>
+      <title>Ligue 1 : Montpellier - Dijon en direct</title>
+      <link>http://www.matchendirect.fr/live-score/montpellier-dijon.html</link>
+      <pubDate>Sat, 11 Aug 2018 20:00:00 +0200</pubDate>
+      <guid isPermaLink="false">26ab48c09e5f12b64693cbfc2e2b1862</guid>
+    </item>
+    <item>
+      <title>Ligue 1 : Lille - Rennes en direct</title>
+      <link>http://www.matchendirect.fr/live-score/lille-rennes.html</link>
+      <pubDate>Sat, 11 Aug 2018 20:00:00 +0200</pubDate>
+      <guid isPermaLink="false">f3d273465519a4eabea7edfcd10c3a36</guid>
+    </item>
+    <item>
+      <title>Ligue 1 : Angers - N&#xEE;mes en direct</title>
+      <link>http://www.matchendirect.fr/live-score/nimes-angers.html</link>
+      <pubDate>Sat, 11 Aug 2018 20:00:00 +0200</pubDate>
+      <guid isPermaLink="false">594765ea113923f3e7cc822081f659c0</guid>
+    </item>
+    <item>
+      <title>Ligue 1 : Nantes - Monaco (score final : 1-3)</title>
+      <link>http://www.matchendirect.fr/live-score/nantes-monaco.html</link>
+      <pubDate>Sat, 11 Aug 2018 18:45:00 +0200</pubDate>
+      <guid isPermaLink="false">c265a311c6ab67adbead6f3bffd812c8</guid>
+    </item>
+    <item>
+      <title>Ligue 1 : Nantes - Monaco en direct</title>
+      <link>http://www.matchendirect.fr/live-score/nantes-monaco.html</link>
+      <pubDate>Sat, 11 Aug 2018 17:00:00 +0200</pubDate>
+      <guid isPermaLink="false">0d0fb28aa125cbc4bd34191feedafcd5</guid>
+    </item>
+    <item>
+      <title>Ligue 1 : Marseille - Toulouse (score final : 4-0)</title>
+      <link>http://www.matchendirect.fr/live-score/marseille-toulouse.html</link>
+      <pubDate>Fri, 10 Aug 2018 22:30:00 +0200</pubDate>
+      <guid isPermaLink="false">54ce37b41eeebe57df14d3312d71a8e7</guid>
+    </item>
+    <item>
+      <title>Ligue 1 : Marseille - Toulouse en direct</title>
+      <link>http://www.matchendirect.fr/live-score/marseille-toulouse.html</link>
+      <pubDate>Fri, 10 Aug 2018 20:45:00 +0200</pubDate>
+      <guid isPermaLink="false">aff8cde95667f4b7282af5ebd5cce566</guid>
+    </item>
+    <item>
+      <title>Ligue 1 : Troyes - Monaco (score final : 0-3)</title>
+      <link>http://www.matchendirect.fr/live-score/troyes-monaco.html</link>
+      <pubDate>Sat, 19 May 2018 22:45:00 +0200</pubDate>
+      <guid isPermaLink="false">ec806b5ca4b67255db49964de92cddb7</guid>
+    </item>
+    <item>
+      <title>Ligue 1 : Toulouse - Guingamp (score final : 2-1)</title>
+      <link>http://www.matchendirect.fr/foot-score/2465283-toulouse-guingamp.html</link>
+      <pubDate>Sat, 19 May 2018 22:45:00 +0200</pubDate>
+      <guid isPermaLink="false">6f53163d04ea2b4ceee25b773df86fff</guid>
+    </item>
+    <item>
+      <title>Ligue 1 : Saint-&#xC9;tienne - Lille (score final : 5-0)</title>
+      <link>http://www.matchendirect.fr/foot-score/2465282-saint-etienne-lille.html</link>
+      <pubDate>Sat, 19 May 2018 22:45:00 +0200</pubDate>
+      <guid isPermaLink="false">5ded74b2413acfb3f2a4610f3f533a36</guid>
+    </item>
+    <item>
+      <title>Ligue 1 : Rennes - Montpellier (score final : 1-1)</title>
+      <link>http://www.matchendirect.fr/live-score/rennes-montpellier.html</link>
+      <pubDate>Sat, 19 May 2018 22:45:00 +0200</pubDate>
+      <guid isPermaLink="false">cfd195d9c17f74a9256f7c70c836b6ac</guid>
+    </item>
+    <item>
+      <title>Ligue 1 : Nantes - Strasbourg (score final : 1-0)</title>
+      <link>http://www.matchendirect.fr/foot-score/2465280-nantes-strasbourg.html</link>
+      <pubDate>Sat, 19 May 2018 22:45:00 +0200</pubDate>
+      <guid isPermaLink="false">61dae6dd14ea86131ac87c7b7b88e05e</guid>
+    </item>
+    <item>
+      <title>Ligue 1 : Metz - Bordeaux (score final : 0-4)</title>
+      <link>http://www.matchendirect.fr/live-score/bordeaux-metz.html</link>
+      <pubDate>Sat, 19 May 2018 22:45:00 +0200</pubDate>
+      <guid isPermaLink="false">0ad27a1a0f7e65f08e5a7f8112758173</guid>
+    </item>
+    <item>
+      <title>Ligue 1 : Marseille - Amiens SC (score final : 2-1)</title>
+      <link>http://www.matchendirect.fr/live-score/marseille-amiens-sc.html</link>
+      <pubDate>Sat, 19 May 2018 22:45:00 +0200</pubDate>
+      <guid isPermaLink="false">a0a4233a74425f37a6d68f0a4c4dc599</guid>
+    </item>
+    <item>
+      <title>Ligue 1 : Lyon - Nice (score final : 3-2)</title>
+      <link>http://www.matchendirect.fr/foot-score/2465277-lyon-nice.html</link>
+      <pubDate>Sat, 19 May 2018 22:45:00 +0200</pubDate>
+      <guid isPermaLink="false">5b438d9cc969da963557773b460c2082</guid>
+    </item>
+    <item>
+      <title>Ligue 1 : Dijon - Angers (score final : 2-1)</title>
+      <link>http://www.matchendirect.fr/foot-score/2465276-dijon-angers.html</link>
+      <pubDate>Sat, 19 May 2018 22:45:00 +0200</pubDate>
+      <guid isPermaLink="false">bde28fbeefe387b5bb014c22cae3a334</guid>
+    </item>
+    <item>
+      <title>Ligue 1 : Caen - PSG (score final : 0-0)</title>
+      <link>http://www.matchendirect.fr/foot-score/2465275-caen-paris-saint-germain.html</link>
+      <pubDate>Sat, 19 May 2018 22:45:00 +0200</pubDate>
+      <guid isPermaLink="false">394759258dfe2d7bdfda82d32bb75896</guid>
+    </item>
+    <item>
+      <title>Ligue 1 : Troyes - Monaco en direct</title>
+      <link>http://www.matchendirect.fr/live-score/troyes-monaco.html</link>
+      <pubDate>Sat, 19 May 2018 21:00:00 +0200</pubDate>
+      <guid isPermaLink="false">5bcdb6e1a09d4b7b4961ebe8c42cbf65</guid>
+    </item>
+    <item>
+      <title>Ligue 1 : Toulouse - Guingamp en direct</title>
+      <link>http://www.matchendirect.fr/foot-score/2465283-toulouse-guingamp.html</link>
+      <pubDate>Sat, 19 May 2018 21:00:00 +0200</pubDate>
+      <guid isPermaLink="false">c6fc717ab31a82b5aba63ce0eebe399f</guid>
+    </item>
+    <item>
+      <title>Ligue 1 : Saint-&#xC9;tienne - Lille en direct</title>
+      <link>http://www.matchendirect.fr/foot-score/2465282-saint-etienne-lille.html</link>
+      <pubDate>Sat, 19 May 2018 21:00:00 +0200</pubDate>
+      <guid isPermaLink="false">f81965db302fa438c8788c4df6f05d53</guid>
+    </item>
+    <item>
+      <title>Ligue 1 : Rennes - Montpellier en direct</title>
+      <link>http://www.matchendirect.fr/live-score/rennes-montpellier.html</link>
+      <pubDate>Sat, 19 May 2018 21:00:00 +0200</pubDate>
+      <guid isPermaLink="false">3b693c7d2aa6c7e40f85291c95f2479f</guid>
+    </item>
+    <item>
+      <title>Ligue 1 : Nantes - Strasbourg en direct</title>
+      <link>http://www.matchendirect.fr/foot-score/2465280-nantes-strasbourg.html</link>
+      <pubDate>Sat, 19 May 2018 21:00:00 +0200</pubDate>
+      <guid isPermaLink="false">6125d89cc86b58d10f4ac8303528b3df</guid>
+    </item>
+    <item>
+      <title>Ligue 1 : Metz - Bordeaux en direct</title>
+      <link>http://www.matchendirect.fr/live-score/bordeaux-metz.html</link>
+      <pubDate>Sat, 19 May 2018 21:00:00 +0200</pubDate>
+      <guid isPermaLink="false">8303415471cad5ed6cf890840b4972bb</guid>
+    </item>
+    <item>
+      <title>Ligue 1 : Marseille - Amiens SC en direct</title>
+      <link>http://www.matchendirect.fr/live-score/marseille-amiens-sc.html</link>
+      <pubDate>Sat, 19 May 2018 21:00:00 +0200</pubDate>
+      <guid isPermaLink="false">e79e1c3cc2a96a5d048db61228fc03ad</guid>
+    </item>
+    <item>
+      <title>Ligue 1 : Lyon - Nice en direct</title>
+      <link>http://www.matchendirect.fr/foot-score/2465277-lyon-nice.html</link>
+      <pubDate>Sat, 19 May 2018 21:00:00 +0200</pubDate>
+      <guid isPermaLink="false">d102519884a2c25e8b75e897ef32cd4a</guid>
+    </item>
+    <item>
+      <title>Ligue 1 : Dijon - Angers en direct</title>
+      <link>http://www.matchendirect.fr/foot-score/2465276-dijon-angers.html</link>
+      <pubDate>Sat, 19 May 2018 21:00:00 +0200</pubDate>
+      <guid isPermaLink="false">4d017aa9484a421b63a56afae4e0fb27</guid>
+    </item>
+    <item>
+      <title>Ligue 1 : Caen - PSG en direct</title>
+      <link>http://www.matchendirect.fr/foot-score/2465275-caen-paris-saint-germain.html</link>
+      <pubDate>Sat, 19 May 2018 21:00:00 +0200</pubDate>
+      <guid isPermaLink="false">7c17c2dc72270a06e1ffd4361a647f74</guid>
+    </item>
+  </channel>
+</rss>
